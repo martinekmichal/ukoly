@@ -6,4 +6,5 @@ def minimum(seznam):
     return min
 
 data_seznamu = [8,9,15,25,48,72,5]
+print()
 print(f"Nejmenší číslo ze seznamu je: {minimum(data_seznamu)}")
